@@ -1,0 +1,6 @@
+config.json
+historikk.jsonl
+ordliste.txt
+norskflow.log
+.venv/
+__pycache__/
